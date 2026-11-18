@@ -65,7 +65,7 @@ pipeline {
                                  allowEmptyArchive: false
 
 
-                echo 'Java application built and archived successfully!'
+                echo ' application built and archived successfully!'
             }
         }
     }
